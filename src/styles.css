@@ -1,0 +1,47 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  body{
+    background-color: #fed7aa;
+  }
+  
+  .singers{
+    padding: 0.5rem;
+    margin: 1rem;
+    background-color: #fb923c;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-weight: bold;
+  }
+  
+  .view{
+    border: 2px solid black;
+    padding: 1rem;
+  }
+  
+  ul{
+    list-style: none
+  }
+  
+  .name{
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-bottom: 2px;
+  }
+  
+  .view .yt{
+    align-items: right;
+    text-align: right;
+    justify-content: right;
+    /* background-color: red; */
+    margin-left: 20rem;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: #fb923c;
+    
+  }
